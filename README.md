@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrimCap
-- 👀 I’m interested in coding discord bots
+- 👀 I’m interested in coding discord bots and making games in Unity
 - 🌱 I’m currently learning python and C#
 
 ---
